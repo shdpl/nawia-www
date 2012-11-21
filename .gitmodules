@@ -1,6 +1,6 @@
 [submodule "ext/bootstrap"]
 	path = ext/bootstrap
-	url = git://github.com/twitter/bootstrap.git
+	url = git://github.com/shdpl/bootstrap.git
 [submodule "ext/jquery"]
 	path = ext/jquery
 	url = git://github.com/jquery/jquery.git
